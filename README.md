@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ManavKalmegh.
+- 👀 I’m interested in Algorithm Design and Problem Solving.
+- 🌱 I’m currently learning DSA and Web Dev.
+- 📫 How to reach me:
+-     Linkdin: https://www.linkedin.com/in/manav-kalmegh-216604223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
